@@ -7,6 +7,10 @@
 
 <!-- /!\ do not modify above this line -->
 
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/brain-tec/social/pull/612) mass_mailing_list_dynamic 
+
 # social
 
 TODO: add repo description.
