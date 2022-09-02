@@ -9,7 +9,7 @@
 
 # BT Customizations
 Open OCA PRs merged
-- (https://github.com/brain-tec/social/pull/612) mass_mailing_list_dynamic 
+- (https://github.com/OCA/social/pull/901) mass_mailing_list_dynamic 
 
 # social
 
