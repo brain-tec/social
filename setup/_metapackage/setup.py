@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo14-addon-base_search_mail_content',
+        'odoo14-addon-email_template_configurator',
         'odoo14-addon-email_template_qweb',
         'odoo14-addon-fetchmail_thread_default',
         'odoo14-addon-mail_activity_board',

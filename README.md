@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [base_search_mail_content](base_search_mail_content/) | 14.0.1.0.1 |  | Base Search Mail Content
+[email_template_configurator](email_template_configurator/) | 14.0.1.0.1 |  | Simplifies use of placeholders in email templates
 [email_template_qweb](email_template_qweb/) | 14.0.1.0.1 |  | Use the QWeb templating mechanism for emails
 [fetchmail_thread_default](fetchmail_thread_default/) | 14.0.1.0.0 |  | Post unkonwn messages to an existing thread
 [mail_activity_board](mail_activity_board/) | 14.0.1.1.1 |  | Add Activity Boards
