@@ -23,6 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [base_search_mail_content](base_search_mail_content/) | 17.0.1.1.0 |  | Base Search Mail Content
 [mail_activity_board](mail_activity_board/) | 17.0.1.1.0 |  | Add Activity Boards
+[mail_activity_cancel_tracking](mail_activity_cancel_tracking/) | 17.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Mail Activity Cancel Tracking
 [mail_activity_done](mail_activity_done/) | 17.0.1.0.0 |  | Mail Activity Done
 [mail_activity_reminder](mail_activity_reminder/) | 17.0.1.0.0 |  | Reminder notifications about planned activities
 [mail_activity_team](mail_activity_team/) | 17.0.2.0.1 |  | Add Teams to Activities
@@ -31,6 +32,7 @@ addon | version | maintainers | summary
 [mail_composer_cc_bcc](mail_composer_cc_bcc/) | 17.0.1.0.0 | [![trisdoan](https://github.com/trisdoan.png?size=30px)](https://github.com/trisdoan) | This module enables sending mail to CC and BCC partners in mail composer form.
 [mail_composer_cc_bcc_account](mail_composer_cc_bcc_account/) | 17.0.1.0.1 | [![hailangvn2023](https://github.com/hailangvn2023.png?size=30px)](https://github.com/hailangvn2023) | This module enables sending mail to CC and BCC partners for invoices.
 [mail_debrand](mail_debrand/) | 17.0.1.0.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
+[mail_disable_follower_notification](mail_disable_follower_notification/) | 17.0.1.0.0 |  | Don't send emails by default when adding followers to records
 [mail_forward](mail_forward/) | 17.0.2.0.1 | [![carlos-lopez-tecnativa](https://github.com/carlos-lopez-tecnativa.png?size=30px)](https://github.com/carlos-lopez-tecnativa) | Forward messages from the chatter of any document to other users.
 [mail_layout_preview](mail_layout_preview/) | 17.0.1.0.0 |  | Preview email templates in the browser
 [mail_notification_custom_subject](mail_notification_custom_subject/) | 17.0.1.2.0 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Apply a custom subject to mail notifications
