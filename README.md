@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[base_search_mail_content](base_search_mail_content/) | 16.0.1.0.3 |  | Base Search Mail Content
+[base_search_mail_content](base_search_mail_content/) | 16.0.1.0.4 |  | Base Search Mail Content
 [base_user_signature](base_user_signature/) | 16.0.1.0.0 | [![imlopes](https://github.com/imlopes.png?size=30px)](https://github.com/imlopes) | Base User Signature
 [email_template_qweb](email_template_qweb/) | 16.0.1.0.0 |  | Use the QWeb templating mechanism for emails
 [fetchmail_thread_default](fetchmail_thread_default/) | 16.0.1.0.0 |  | Post unkonwn messages to an existing thread
@@ -36,7 +36,7 @@ addon | version | maintainers | summary
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 16.0.1.1.0 |  | Adding attachment on the object by sending this one
 [mail_attach_existing_attachment_account](mail_attach_existing_attachment_account/) | 16.0.1.0.1 |  | Module to use attach existing attachment for account module
 [mail_autosubscribe](mail_autosubscribe/) | 16.0.1.0.1 |  | Automatically subscribe partners to its company's business documents
-[mail_composer_cc_bcc](mail_composer_cc_bcc/) | 16.0.2.0.5 | [![trisdoan](https://github.com/trisdoan.png?size=30px)](https://github.com/trisdoan) | This module enables sending mail to CC and BCC partners in mail composer form.
+[mail_composer_cc_bcc](mail_composer_cc_bcc/) | 16.0.2.0.6 | [![trisdoan](https://github.com/trisdoan.png?size=30px)](https://github.com/trisdoan) | This module enables sending mail to CC and BCC partners in mail composer form.
 [mail_composer_cc_bcc_account](mail_composer_cc_bcc_account/) | 16.0.2.0.0 | [![hailangvn2023](https://github.com/hailangvn2023.png?size=30px)](https://github.com/hailangvn2023) | This module enables sending mail to CC and BCC partners for invoices.
 [mail_debrand](mail_debrand/) | 16.0.1.0.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
 [mail_discuss_security](mail_discuss_security/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add a group to display 'Discuss' Application menu entry
