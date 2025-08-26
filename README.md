@@ -28,6 +28,7 @@ addon | version | maintainers | summary
 [mail_activity_board](mail_activity_board/) | 16.0.1.2.0 |  | Add Activity Boards
 [mail_activity_done](mail_activity_done/) | 16.0.1.3.0 |  | Mail Activity Done
 [mail_activity_filter_internal_user](mail_activity_filter_internal_user/) | 16.0.1.0.0 |  | Filter on internal user by default when assigning someone to an activity.
+[mail_activity_meeting_reminder](mail_activity_meeting_reminder/) | 16.0.1.0.0 |  | Allow to enforce reminders on meeting activity types
 [mail_activity_partner](mail_activity_partner/) | 16.0.1.0.0 |  | Add Partner to Activities
 [mail_activity_plan](mail_activity_plan/) | 16.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Mail activity plan
 [mail_activity_reminder](mail_activity_reminder/) | 16.0.1.0.0 |  | Reminder notifications about planned activities
