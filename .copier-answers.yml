@@ -17,7 +17,7 @@ odoo_version: 16.0
 org_name: Odoo Community Association (OCA)
 org_slug: OCA
 rebel_module_groups:
-- mail_post_defer
+- mail_activity_reply_creator,mail_post_defer,mass_mailing_disable_tracking
 repo_description: '{''TODO'': ''add repo description.''}Better integration of Odoo
     with mail and social media'
 repo_name: social
