@@ -75,6 +75,7 @@ addon | version | maintainers | summary
 [mass_mailing_disable_tracking](mass_mailing_disable_tracking/) | 16.0.1.0.0 | <a href='https://github.com/huguesdk'><img src='https://github.com/huguesdk.png' width='32' height='32' style='border-radius:50%;' alt='huguesdk'/></a> | Allow to disable open and link click tracking in mass mailing messages
 [mass_mailing_event_registration_exclude](mass_mailing_event_registration_exclude/) | 16.0.1.0.0 |  | Link mass mailing with event for excluding recipients
 [mass_mailing_list_dynamic](mass_mailing_list_dynamic/) | 16.0.2.1.0 |  | Mass mailing lists that get autopopulated
+[mass_mailing_list_prune_blacklisted](mass_mailing_list_prune_blacklisted/) | 16.0.1.0.0 | <a href='https://github.com/SirPyTech'><img src='https://github.com/SirPyTech.png' width='32' height='32' style='border-radius:50%;' alt='SirPyTech'/></a> | Allow to remove blacklisted emails from mailing lists.
 [mass_mailing_partner](mass_mailing_partner/) | 16.0.2.0.2 |  | Link partners with mass-mailing
 [mass_mailing_resend](mass_mailing_resend/) | 16.0.1.0.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Resend mass mailings
 [mass_mailing_unique](mass_mailing_unique/) | 16.0.1.1.0 |  | Avoids duplicate mailing lists and contacts
