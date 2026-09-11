@@ -628,6 +628,13 @@ msgid "Failed Description"
 msgstr ""
 
 #. module: social_media_base
+#: model:ir.model.fields,field_description:social_media_base.field_social_account__failed_message_ids
+#: model:ir.model.fields,field_description:social_media_base.field_social_post__failed_message_ids
+#: model:ir.model.fields,field_description:social_media_base.field_social_post_account__failed_message_ids
+msgid "Failed Messages"
+msgstr ""
+
+#. module: social_media_base
 #: model:ir.model.fields,field_description:social_media_base.field_social_account__message_follower_ids
 #: model:ir.model.fields,field_description:social_media_base.field_social_post__message_follower_ids
 #: model:ir.model.fields,field_description:social_media_base.field_social_post_account__message_follower_ids
@@ -985,6 +992,13 @@ msgid "Message"
 msgstr ""
 
 #. module: social_media_base
+#: model:ir.model.fields,field_description:social_media_base.field_social_account__message_content
+#: model:ir.model.fields,field_description:social_media_base.field_social_post__message_content
+#: model:ir.model.fields,field_description:social_media_base.field_social_post_account__message_content
+msgid "Message Content"
+msgstr ""
+
+#. module: social_media_base
 #: model:ir.model.fields,field_description:social_media_base.field_social_account__message_has_error
 #: model:ir.model.fields,field_description:social_media_base.field_social_post__message_has_error
 #: model:ir.model.fields,field_description:social_media_base.field_social_post_account__message_has_error
@@ -999,6 +1013,13 @@ msgstr ""
 #. module: social_media_base
 #: model:ir.model.fields,field_description:social_media_base.field_social_post__message_info
 msgid "Message Info"
+msgstr ""
+
+#. module: social_media_base
+#: model:ir.model.fields,help:social_media_base.field_social_account__message_content
+#: model:ir.model.fields,help:social_media_base.field_social_post__message_content
+#: model:ir.model.fields,help:social_media_base.field_social_post_account__message_content
+msgid "Message content, to be used only in searches"
 msgstr ""
 
 #. module: social_media_base
@@ -1057,6 +1078,12 @@ msgstr ""
 #: code:addons/social_media_base/static/src/components/social_image_dialog/social_image_dialog.xml:0
 #, python-format
 msgid "Next"
+msgstr ""
+
+#. module: social_media_base
+#: model:ir.model.fields,field_description:social_media_base.field_social_account__activity_calendar_event_id
+#: model:ir.model.fields,field_description:social_media_base.field_social_post__activity_calendar_event_id
+msgid "Next Activity Calendar Event"
 msgstr ""
 
 #. module: social_media_base
@@ -2048,6 +2075,20 @@ msgstr ""
 #: model:ir.model.fields,field_description:social_media_base.field_social_account__web_url
 #: model:ir.model.fields,field_description:social_media_base.field_social_web_url_mixin__web_url
 msgid "Web URL"
+msgstr ""
+
+#. module: social_media_base
+#: model:ir.model.fields,field_description:social_media_base.field_social_account__website_message_ids
+#: model:ir.model.fields,field_description:social_media_base.field_social_post__website_message_ids
+#: model:ir.model.fields,field_description:social_media_base.field_social_post_account__website_message_ids
+msgid "Website Messages"
+msgstr ""
+
+#. module: social_media_base
+#: model:ir.model.fields,help:social_media_base.field_social_account__website_message_ids
+#: model:ir.model.fields,help:social_media_base.field_social_post__website_message_ids
+#: model:ir.model.fields,help:social_media_base.field_social_post_account__website_message_ids
+msgid "Website communication history"
 msgstr ""
 
 #. module: social_media_base
