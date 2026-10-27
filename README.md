@@ -39,8 +39,8 @@ addon | version | maintainers | summary
 [mail_disable_follower_notification](mail_disable_follower_notification/) | 17.0.1.0.0 |  | Don't send emails by default when adding followers to records
 [mail_discuss_channel_unread_sort](mail_discuss_channel_unread_sort/) | 17.0.1.0.0 |  | Sort discuss channels by most recent unread activity
 [mail_forward](mail_forward/) | 17.0.2.0.1 | <a href='https://github.com/carlos-lopez-tecnativa'><img src='https://github.com/carlos-lopez-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='carlos-lopez-tecnativa'/></a> | Forward messages from the chatter of any document to other users.
-[mail_gateway](mail_gateway/) | 17.0.1.0.10 |  | Base module for gateway communications
-[mail_gateway_whatsapp](mail_gateway_whatsapp/) | 17.0.1.1.4 |  | Set a gateway for whatsapp
+[mail_gateway](mail_gateway/) | 17.0.1.1.0 |  | Base module for gateway communications
+[mail_gateway_whatsapp](mail_gateway_whatsapp/) | 17.0.1.2.0 |  | Set a gateway for whatsapp
 [mail_history_mark_unread](mail_history_mark_unread/) | 17.0.1.1.0 |  | Add 'Mark as Unread' action to messages in History mailbox and Search results
 [mail_layout_force](mail_layout_force/) | 17.0.1.0.1 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Force a mail layout on selected email templates
 [mail_layout_preview](mail_layout_preview/) | 17.0.1.0.0 |  | Preview email templates in the browser
@@ -75,6 +75,7 @@ addon | version | maintainers | summary
 [social_media_linkedin](social_media_linkedin/) | 17.0.1.0.1 | <a href='https://github.com/edescalona'><img src='https://github.com/edescalona.png' width='32' height='32' style='border-radius:50%;' alt='edescalona'/></a> | Publish on the LinkedIn pages you administrate, with daily figures
 [social_media_linkedin_sync](social_media_linkedin_sync/) | 17.0.1.0.1 | <a href='https://github.com/edescalona'><img src='https://github.com/edescalona.png' width='32' height='32' style='border-radius:50%;' alt='edescalona'/></a> | Import LinkedIn publications, their figures, comments and reactions
 [social_media_sync](social_media_sync/) | 17.0.1.0.1 | <a href='https://github.com/edescalona'><img src='https://github.com/edescalona.png' width='32' height='32' style='border-radius:50%;' alt='edescalona'/></a> | Import posts, figures, comments and reactions from the social media
+[social_media_x](social_media_x/) | 17.0.1.0.0 | <a href='https://github.com/edescalona'><img src='https://github.com/edescalona.png' width='32' height='32' style='border-radius:50%;' alt='edescalona'/></a> | Publish on X, with the figures of the account and of the posts sent
 
 [//]: # (end addons)
 
